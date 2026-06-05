@@ -97,7 +97,7 @@ Lagos accounted for **61% of all confirmed cases**, reflecting its status as Nig
 | pandas | Data loading, cleaning, transformation |
 | matplotlib | Base charting |
 | seaborn | Heatmap and styled visualizations |
-| openpyxl / xlrd | Reading Excel files |
+| csv | Reading Excel files |
 
 ---
 
@@ -162,8 +162,4 @@ Data Analyst | Founder, Mekushandy Tech Academy | Abuja, Nigeria
 
 ## 📄 License
 
-This project is open source under the [MIT License](LICENSE).
-
----
-
-*Dataset credit: Ajibola Lawal via Kaggle | Original data source: Nigeria Centre for Disease Control (NCDC)*
+This is an open source data from kaggle
